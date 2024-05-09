@@ -8,6 +8,6 @@ new diffs
 
 мои данные
 
-
+git checkout .
 
 
