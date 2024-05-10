@@ -5,6 +5,7 @@ public class Test {
 
     }
     public static String string(Integer s){
+        int t = s.intValue();
         return "";
     }
 }
