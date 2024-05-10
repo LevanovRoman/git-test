@@ -8,3 +8,9 @@ public class Test {
         return "";
     }
 }
+//spring.datasource.driver-class-name=org.postgresql.Driver
+//spring.datasource.url=jdbc:postgresql://localhost:5450/security_db
+//spring.datasource.username=admin
+//spring.datasource.password=admin
+//spring.jpa.hibernate.ddl-auto=update
+//spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
